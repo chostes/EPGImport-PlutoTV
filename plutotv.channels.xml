@@ -75,6 +75,7 @@
 <channel id="5f1aaefb96f755000733c11a">4097:0:1:AAAA:A042:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV brave -->
 <channel id="600169ec77e6f70008fa9cf0">4097:0:1:AAAA:A086:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV dating -->
 <channel id="5f1ab9c6d8f1300007f54e30">4097:0:1:AAAA:A087:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV cribs -->
+<channel id="5f1ab9c6d8f1300007f54e30">4097:0:1:AAAA:A117:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- MTV Geordies -->
 <!-- NOTICIAS -->
 <channel id="60d3583ef310610007fb02b1">4097:0:1:AAAA:A043:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Euronews -->
 <channel id="6231ede1be5b460007f91bc1">4097:0:1:AAAA:A044:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- CBS news -->
