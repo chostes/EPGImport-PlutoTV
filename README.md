@@ -1,5 +1,5 @@
 # EPGImport-PlutoTV
-Actualizado a 16/07/2022
+Actualizado a 27/07/2022
 
 Ficheros para descargar el EPG de los canales de PlutoTV
 
