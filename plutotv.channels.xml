@@ -43,6 +43,7 @@
 <channel id="60f58f2278490000079bc47b">4097:0:1:AAAA:A023:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- La niñera -->
 <channel id="619b7db4872c650008eb8b6a">4097:0:1:AAAA:A024:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Star Trek -->
 <channel id="628751bb7154a40007168843">4097:0:1:AAAA:A025:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- South Park -->
+<channel id="6245c03922d9d4000760d205">4097:0:1:AAAA:A118:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Melrose Place -->
 <!-- CRIMEN Y MISTERIO -->
 <channel id="5f984f4a09e92d0007d74647">4097:0:1:AAAA:A076:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Archivos forenses -->
 <channel id="602ba1cfb386d30007aecbbe">4097:0:1:AAAA:A026:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Investiga -->

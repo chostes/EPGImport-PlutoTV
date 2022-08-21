@@ -1,5 +1,9 @@
 # EPGImport-PlutoTV
-Actualizado a 27/07/2022
+Actualización 21/08/2022
+Añadido Melrose Place
+
+Actualización 27/07/2022
+Añadido MTV Geordies
 
 Ficheros para descargar el EPG de los canales de PlutoTV
 
