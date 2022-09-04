@@ -15,6 +15,7 @@
 <channel id="60cc807324d60a0007708dc8">4097:0:1:AAAA:A008:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine indies -->
 <channel id="61cd78920b90cb0007e28231">4097:0:1:AAAA:A009:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine documentales -->
 <channel id="61c49a1b5ec8d40008673251">4097:0:1:AAAA:A010:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Cine cortos -->
+<channel id="62ecdab3d41a9e0007f2611f">4097:0:1:AAAA:A120:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Pelis retro -->
 <!-- MADE IN SPAIN -->
 <channel id="61922be835f3910007fc58f6">4097:0:1:AAAA:A011:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- En el punto de mira -->
 <channel id="622f42b831233300078658cc">4097:0:1:AAAA:A012:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Ciudadanos por el mundo -->
@@ -44,6 +45,7 @@
 <channel id="619b7db4872c650008eb8b6a">4097:0:1:AAAA:A024:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Star Trek -->
 <channel id="628751bb7154a40007168843">4097:0:1:AAAA:A025:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- South Park -->
 <channel id="6245c03922d9d4000760d205">4097:0:1:AAAA:A118:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Melrose Place -->
+<channel id="6245c2a5eec07b0007249fc8">4097:0:1:AAAA:A119:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Sensación de vivir (90210) -->
 <!-- CRIMEN Y MISTERIO -->
 <channel id="5f984f4a09e92d0007d74647">4097:0:1:AAAA:A076:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Archivos forenses -->
 <channel id="602ba1cfb386d30007aecbbe">4097:0:1:AAAA:A026:EC:0:0:0:0:http%3a//example.m3u8</channel> <!-- Investiga -->

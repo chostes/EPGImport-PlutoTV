@@ -1,4 +1,7 @@
 # EPGImport-PlutoTV
+Actualización 04/09/2022 
+Añadido Sensación de Vivir (90210) y Pelis Retro
+
 Actualización 21/08/2022
 Añadido Melrose Place
 
